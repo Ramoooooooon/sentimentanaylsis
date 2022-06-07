@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('Reviews.csv')
+df = pd.read_csv('BaligodSample.csv')
 df.head()
 
 import matplotlib.pyplot as plt
